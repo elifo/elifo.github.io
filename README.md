@@ -38,7 +38,7 @@ You can easily access to:
 
 * [About me](https://elifo.github.io/about.html)
 * [My CV](https://drive.google.com/file/d/1Ni20HWz70MR01rKhfXGG6Iy55sKGAowg/view)
-* [My Research portfolio](https://elifo.github.io/highlights.html)
+* [My research portfolio](https://elifo.github.io/highlights.html)
 * [Interesting reading materials](https://workflowy.com/s/golden-biblio-list/P8rZyO6IBaBKqqth)
 
 
