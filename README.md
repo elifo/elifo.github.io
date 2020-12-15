@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://elifo.github.io/index.html">
-    <img src="images/header.png" alt="Logo" width="80" height="80">
+    <img src="images/header.png" alt="Logo" width='502px;>
   </a>
 
   <h3 align="center">elifo.github.io</h3>
@@ -28,7 +28,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About the website
-I am scientist working on earthquakes. This website is to share my work with you.
+I am a scientist working on earthquakes. This website is to share my work with you.
 <!-- **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
  -->
