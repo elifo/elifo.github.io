@@ -37,7 +37,7 @@ I am a scientist working on earthquakes. This website is to share my work with y
 You can easily access to:
 
 * [About me](https://elifo.github.io/about.html)
-* [My CV](https://drive.google.com/file/d/1Ni20HWz70MR01rKhfXGG6Iy55sKGAowg/view)
+* [My CV](https://drive.google.com/file/d/1mF96xNhRptWsd5A1F3P99ItNbPr1fexF/view?usp=sharing)
 * [My research portfolio](https://elifo.github.io/highlights.html)
 * [Interesting reading materials](https://workflowy.com/s/golden-biblio-list/P8rZyO6IBaBKqqth)
 * [Codes & Tutorials related to my work](https://elifo.github.io/index.html)
@@ -50,7 +50,7 @@ Following sections are still under construction:
 
 and also: 
 
-* [My CV](https://drive.google.com/file/d/1Ni20HWz70MR01rKhfXGG6Iy55sKGAowg/view)
+* [My CV](https://drive.google.com/file/d/1mF96xNhRptWsd5A1F3P99ItNbPr1fexF/view?usp=sharing)
 * [My research portfolio](https://elifo.github.io/highlights.html)
 
 Thanks for looking, and stay tuned!
