@@ -17,7 +17,7 @@ Spectral element modelling of 2D wave propagation including site effects
 * Examples: coming soon
 * References: 
     * Oral, Gélis and Bonilla, 2019, 2-D P-SV and SH spectral element modelling of seismic wave propagation in non-linear media with pore-pressure effects, Geophysical Journal International, [PDF](https://eartharxiv.org/repository/view/1954/)
-    * Phd Dissertation: [Oral (2016)](https://tel.archives-ouvertes.fr/tel-01562279);
+    * Phd Dissertation: [Oral (2016)](https://tel.archives-ouvertes.fr/tel-01562279)
 
 
 ## 1D-3C spectral element modelling of wave propagation in nonlinear media
@@ -28,8 +28,8 @@ One-dimensional (1D) three-component (3C) spectral element modeling (SEM) of sei
 * References: 
     * Oral, Gélis, Bonilla, Delavaud, 2017, Spectral element modelling of seismic wave
 propagation in visco-elastoplastic media including excess-pore pressure development,
-Geophysical Journal International, [DOI](https://doi.org/10.1093/gji/ggx375), [PDF](https://eartharxiv.org/repository/view/1953/).
-    * Phd Dissertation: [Oral (2016)](https://tel.archives-ouvertes.fr/tel-01562279);
+Geophysical Journal International, [DOI](https://doi.org/10.1093/gji/ggx375), [PDF](https://eartharxiv.org/repository/view/1953/)
+    * Phd Dissertation: [Oral (2016)](https://tel.archives-ouvertes.fr/tel-01562279)
 
 
 ## Modelling nonlinear soil behaviour on elementary level
