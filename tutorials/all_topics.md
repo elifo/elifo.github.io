@@ -1,10 +1,10 @@
 # Tutorial/Code list
 Here you can find the complete list of available tutorials. Please refer to the section below for related materials for each tutorial.
-* 1) [The 2018 Palu, Indonesia slow supershear earthquake](#palu)
-* 2) [2D spectral element modelling of wave propagation in nonlinear media](#sem2dpack)
-* 3) [1D-3C spectral element modelling of wave propagation in nonlinear media](#1d3csem)
-* 4) [Modelling nonlinear soil behaviour on elementary level](#iwanelem)
-* 5) [Finite-source model preparation for SEM3D ](#convertisseur)
+* 1)[The 2018 Palu, Indonesia slow supershear earthquake](#palu)
+* 2)[2D spectral element modelling of wave propagation in nonlinear media](#sem2dpack)
+* 3)[1D-3C spectral element modelling of wave propagation in nonlinear media](#1d3csem)
+* 4)[Modelling nonlinear soil behaviour on elementary level](#iwanelem)
+* 5)[Finite-source model preparation for SEM3D ](#convertisseur)
 
 
 
