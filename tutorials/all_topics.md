@@ -28,7 +28,7 @@ One-dimensional (1D) three-component (3C) spectral element modeling (SEM) of sei
 * [All examples](https://github.com/elifo/1D3CSEM/tree/main/EXAMPLES)
 
 
-## Modelling nonlinear soil behaviour in a simplified elementary level
+## Modelling nonlinear soil behaviour on elementary level
 Elemantary code —no wave propagation— for Iwan model, used for testing nonlinear soil behaviour under dynamic loading
 
 * Code: [`IWANelem`](https://github.com/elifo/IWANelem)
