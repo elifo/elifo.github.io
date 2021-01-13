@@ -57,3 +57,6 @@ Coming soon
 
 ## How to use linear algebra for seismic source relocation
 Coming soon
+
+## How to apply high-frequency back-projection to an earthquake
+Coming soon
