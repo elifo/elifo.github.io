@@ -7,9 +7,6 @@ Here you can find the complete list of available tutorials. Please refer to the 
 * 5)[Finite-source model preparation for SEM3D ](#convertisseur)
 
 
-
-
-
 <a name="palu"></a>
 ## 1) The 2018 Palu, Indonesia slow supershear earthquake 
 2D damage (low-velocity fault zone) model for dynamic rupture modelling in SEM2DPACK
