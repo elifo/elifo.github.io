@@ -1,4 +1,3 @@
-<!-- TUTORIALS-->
 # Tutorial/Code list
 Here you can find the complete list of available tutorials. Click on the provided links for related materials.
 
@@ -24,9 +23,9 @@ Spectral element modelling of 2D wave propagation including site effects
 ## 1D-3C spectral element modelling of wave propagation in nonlinear media
 One-dimensional (1D) three-component (3C) spectral element modeling (SEM) of seismic wave propagation in nonlinear media with pore-pressure effects
 
-* Code: [`1D3CSEM`](https://github.com/elifo/1D3CSEM/tree/master/1D3CSEM_VERIF_TEMIZLE)
-* [Manual](https://github.com/elifo/1D3CSEM/blob/master/1D3CSEM_VERIF_TEMIZLE/MANUAL/manual.pdf)
-* [All examples](https://github.com/elifo/1D3CSEM/tree/master/1D3CSEM_VERIF_TEMIZLE/EXAMPLES)
+* Code: [`1D3CSEM`](https://github.com/elifo/1D3CSEM)
+* [Manual](https://github.com/elifo/1D3CSEM/blob/main/MANUAL/manual.pdf)
+* [All examples](https://github.com/elifo/1D3CSEM/tree/main/EXAMPLES)
 
 
 ## Modelling nonlinear soil behaviour in a simplified elementary level
