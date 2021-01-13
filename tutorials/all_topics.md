@@ -1,17 +1,17 @@
 # Tutorial/Code list
 Here you can find the complete list of available tutorials. Please refer to the section below for related materials for each tutorial.
-* [The 2018 Palu, Indonesia slow supershear earthquake](#palu)
-* [2D spectral element modelling of wave propagation in nonlinear media](#sem2dpack)
-* [1D-3C spectral element modelling of wave propagation in nonlinear media](#1d3csem)
-* [Modelling nonlinear soil behaviour on elementary level](#iwanelem)
-* [Finite-source model preparation for SEM3D ](#convertisseur)
+* 1) [The 2018 Palu, Indonesia slow supershear earthquake](#palu)
+* 2) [2D spectral element modelling of wave propagation in nonlinear media](#sem2dpack)
+* 3) [1D-3C spectral element modelling of wave propagation in nonlinear media](#1d3csem)
+* 4) [Modelling nonlinear soil behaviour on elementary level](#iwanelem)
+* 5) [Finite-source model preparation for SEM3D ](#convertisseur)
 
 
 
 
 
 <a name="palu"></a>
-### The 2018 Palu, Indonesia slow supershear earthquake 
+## 1) The 2018 Palu, Indonesia slow supershear earthquake 
 2D damage (low-velocity fault zone) model for dynamic rupture modelling in SEM2DPACK
 * [Repository](https://github.com/elifo/damaged_fault)
 * [Manual](https://github.com/elifo/damaged_fault/blob/master/README.md)
@@ -20,7 +20,7 @@ landslide risk during supershear earthquakes?—Application to the 2018 magnitud
 Palu earthquake, Geophysical Research Letters, [DOI](https://doi.org/10.1029/2019GL085649), [PDF (preprint)](https://eartharxiv.org/repository/view/638/)
 
 <a name="sem2dpack"></a>
-### 2D spectral element modelling of wave propagation in nonlinear media
+## 2) 2D spectral element modelling of wave propagation in nonlinear media
 Spectral element modelling of 2D wave propagation including site effects
 * Code [`SEM2DPACK`](https://github.com/jpampuero/sem2dpack/tree/iwan)
 * Examples: coming soon
@@ -29,7 +29,7 @@ Spectral element modelling of 2D wave propagation including site effects
     * Phd Dissertation: [Oral (2016)](https://tel.archives-ouvertes.fr/tel-01562279)
 
 <a name="1d3csem"></a>
-### 1D-3C spectral element modelling of wave propagation in nonlinear media
+## 3) 1D-3C spectral element modelling of wave propagation in nonlinear media
 One-dimensional (1D) three-component (3C) spectral element modeling (SEM) of seismic wave propagation in nonlinear media with pore-pressure effects
 * Code: [`1D3CSEM`](https://github.com/elifo/1D3CSEM)
 * [Manual](https://github.com/elifo/1D3CSEM/blob/main/MANUAL/manual.pdf)
@@ -41,13 +41,13 @@ Geophysical Journal International, [DOI](https://doi.org/10.1093/gji/ggx375), [P
     * Phd Dissertation: [Oral (2016)](https://tel.archives-ouvertes.fr/tel-01562279)
 
 <a name="iwanelem"></a>
-### Modelling nonlinear soil behaviour on elementary level
+## 4) Modelling nonlinear soil behaviour on elementary level
 Elemantary code —no wave propagation— for Iwan model, used for testing nonlinear soil behaviour under dynamic loading
 * Code: [`IWANelem`](https://github.com/elifo/IWANelem)
 * Example list [here](https://github.com/elifo/IWANelem/blob/master/README.md)
 
 <a name="convertisseur"></a>
-### Finite-source model preparation for SEM3D 
+## 5) Finite-source model preparation for SEM3D 
 This repository includes the files necessary to prepare a finite source model that can be used as input for the 3D spectral element code of SEM3D (of Ecole Centrale Paris, IPGP and CEA).
 * Code: [`Convertisseur`](https://github.com/elifo/Convertisseur)
 * [Manual](https://github.com/elifo/Convertisseur/blob/master/DOC/manual.pdf)
