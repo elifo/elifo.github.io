@@ -12,11 +12,11 @@ Here you can find the complete list of available tutorials. Click on the provide
 ## 2D spectral element modelling of wave propagation in nonlinear media
 Spectral element modelling of 2D wave propagation including site effects
 
-* [Code](https://github.com/jpampuero/sem2dpack/tree/iwan)
+* Code [`SEM2DPACK`](https://github.com/jpampuero/sem2dpack/tree/iwan)
 * Examples: coming soon
 * References: 
 
-    * Phd Dissertation: [`Oral (2016)`](https://tel.archives-ouvertes.fr/tel-01562279);
+    * Phd Dissertation: [Oral (2016)](https://tel.archives-ouvertes.fr/tel-01562279);
     * Oral, Gélis and Bonilla, 2019, 2-D P-SV and SH spectral element modelling of seismic wave propagation in non-linear media with pore-pressure effects, Geophysical Journal International, [PDF](https://eartharxiv.org/repository/view/1954/)
 
 
