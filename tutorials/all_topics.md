@@ -45,8 +45,14 @@ This repository includes the files necessary to prepare a finite source model th
 * Reference: Oral, E., Gatti, F. and Lopez‐Caballero, F., 2018, June. 3d spectral element modeling of near source effects including kinematic rupture and finite-fault effects.
 
 
-## RIKsrf
+## Kinematic source modelling for offshore Martinique, the Lesser Antilles Subduction Zone
 Coming soon
 
-## Heterogeneous stress preparation in 3D media
+
+## Heterogeneous stress preparation for 3D fault medium
 Coming soon
+
+## How to download seismic data with obspy
+Coming soon
+
+
