@@ -49,7 +49,7 @@ Elemantary code —no wave propagation— for Iwan model, used for testing nonli
 <a name="convertisseur"></a>
 ### Finite-source model preparation for SEM3D 
 This repository includes the files necessary to prepare a finite source model that can be used as input for the 3D spectral element code of SEM3D (of Ecole Centrale Paris, IPGP and CEA).
-* Code: [Convertisseur](https://github.com/elifo/Convertisseur)
+* Code: [`Convertisseur`](https://github.com/elifo/Convertisseur)
 * [Manual](https://github.com/elifo/Convertisseur/blob/master/DOC/manual.pdf)
 * Reference: Oral, E., Gatti, F. and Lopez‐Caballero, F., 2018, June. 3d spectral element modeling of near source effects including kinematic rupture and finite-fault effects.
 
