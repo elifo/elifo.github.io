@@ -55,7 +55,7 @@ This repository includes the files necessary to prepare a finite source model th
 <a name="obspy"></a>
 ## 6) How to download seismic data by using obspy
 Obspy is a cool tool that will make your life easier. Below are very simple examples:  
-* Downloadig IRIS data (US/CA arrays): [`link to notebook`](https://github.com/elifo/obspy_tutorials/blob/main/download_iris_data.ipynb)
+* Downloading IRIS data (US/CA arrays): [`link to notebook`](https://github.com/elifo/obspy_tutorials/blob/main/download_iris_data.ipynb)
 * Downloading French data (public/private through EIDA): [`link to notebook`](https://github.com/elifo/obspy_tutorials/blob/main/download_french_data.ipynb)
 * Processing mseed data and first plots: [`link to notebook`](https://github.com/elifo/obspy_tutorials/blob/main/process_mseed_data.ipynb)
 
