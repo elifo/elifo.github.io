@@ -5,6 +5,7 @@ Here you can find the complete list of available tutorials. Please refer to the 
 * 3)[1D-3C spectral element modelling of wave propagation in nonlinear media](#1d3csem)
 * 4)[Modelling nonlinear soil behaviour on elementary level](#iwanelem)
 * 5)[Finite-source model preparation for SEM3D ](#convertisseur)
+* 6)[Using obspy to download seismic data](#obspy)
 
 
 <a name="palu"></a>
@@ -51,9 +52,16 @@ This repository includes the files necessary to prepare a finite source model th
 * Reference: Oral, E., Gatti, F. and Lopez‐Caballero, F., 2018, June. 3d spectral element modeling of near source effects including kinematic rupture and finite-fault effects.
 
 
+<a name="obspy"></a>
+## 6) How to download seismic data by using obspy
+Obspy is a cool tool that will make your life easier. Below are very simple examples:  
+* Downloadig IRIS data (US/CA arrays): [`link to notebook`](https://github.com/elifo/obspy_tutorials/blob/main/download_iris_data.ipynb)
+* Downloading French data (public/private through EIDA): [`link to notebook`](https://github.com/elifo/obspy_tutorials/blob/main/download_french_data.ipynb)
+* Processing mseed data and first plots: [`link to notebook`](https://github.com/elifo/obspy_tutorials/blob/main/process_mseed_data.ipynb)
+
+
 ## Coming soon
 * Kinematic source modelling for offshore Martinique, the Lesser Antilles Subduction Zone
 * Heterogeneous stress preparation for 3D fault medium
-* How to download seismic data with obspy
 * How to use linear algebra for seismic source relocation
 * How to apply high-frequency back-projection to an earthquake
