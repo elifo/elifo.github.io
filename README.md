@@ -26,6 +26,8 @@
 </p>
 
 
+![alt text](images/header.png "Title")  
+  
 <!-- ABOUT THE PROJECT -->
 ## About the website
 I am a scientist working on earthquakes. This website is to share my work with you.
