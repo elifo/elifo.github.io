@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://elifo.github.io/index.html">
-    <img src="./images/header.png" alt="Logo" width='502px;>
+    <img src="./images/elif_oral_header.png" alt="Logo" width='502px;>
   </a>
 
   <h3 align="center">elifo.github.io</h3>
@@ -25,8 +25,6 @@
 
 </p>
 
-
-![alt text](images/header.png "Title")  
   
 <!-- ABOUT THE PROJECT -->
 ## About the website
