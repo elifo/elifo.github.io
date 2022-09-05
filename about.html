@@ -50,108 +50,7 @@
 
     <style id='page-skin-1' type='text/css'>
         <!--
-        /*
-        -----------------------------------------------
-        Blogger Template Style
-        Name:     Travel
-        Designer: Sookhee Lee
-        URL:      www.plyfly.net
-        ----------------------------------------------- */
-        /* Variable definitions
-        ====================
-        <Variable name="keycolor" description="Main Color" type="color" default="#539bcd"/>
-        <Group description="Page Text" selector="body">
-        <Variable name="body.font" description="Font" type="font"
-        default="normal normal 13px 'Trebuchet MS',Trebuchet,sans-serif"/>
-        <Variable name="body.text.color" description="Text Color" type="color" default="#bbbbbb"/>
-        </Group>
-        <Group description="Backgrounds" selector=".body-fauxcolumns-outer">
-        <Variable name="body.background.color" description="Outer Background" type="color" default="#539bcd"/>
-        <Variable name="content.background.color" description="Main Background" type="color" default="transparent"/>
-        </Group>
-        <Group description="Links" selector=".main-outer">
-        <Variable name="link.color" description="Link Color" type="color" default="#ff9900"/>
-        <Variable name="link.visited.color" description="Visited Color" type="color" default="#b87209"/>
-        <Variable name="link.hover.color" description="Hover Color" type="color" default="#ff9900"/>
-        </Group>
-        <Group description="Blog Title" selector=".header h1">
-        <Variable name="header.font" description="Font" type="font"
-        default="normal normal 60px 'Trebuchet MS',Trebuchet,sans-serif"/>
-        <Variable name="header.text.color" description="Text Color" type="color" default="#ffffff" />
-        </Group>
-        <Group description="Blog Description" selector=".header .description">
-        <Variable name="description.text.color" description="Description Color" type="color"
-        default="#000000" />
-        </Group>
-        <Group description="Tabs Text" selector=".tabs-inner .widget li a">
-        <Variable name="tabs.font" description="Font" type="font"
-        default="normal bold 16px 'Trebuchet MS',Trebuchet,sans-serif"/>
-        <Variable name="tabs.text.color" description="Text Color" type="color" default="#ffffff"/>
-        <Variable name="tabs.selected.text.color" description="Selected Color" type="color" default="#ffffff"/>
-        </Group>
-        <Group description="Tabs Background" selector=".tabs-outer .PageList">
-        <Variable name="tabs.background.color" description="Background Color" type="color" default="transparent"/>
-        <Variable name="tabs.selected.background.color" description="Selected Color" type="color" default="transparent"/>
-        </Group>
-        <Group description="Date Header" selector=".main-inner h2.date-header">
-        <Variable name="date.font" description="Font" type="font"
-        default="normal normal 14px 'Trebuchet MS',Trebuchet,sans-serif"/>
-        <Variable name="date.text.color" description="Text Color" type="color" default="#000000"/>
-        </Group>
-        <Group description="Post Title" selector="h3.post-title a">
-        <Variable name="post.title.font" description="Font" type="font"
-        default="normal bold 20px 'Trebuchet MS',Trebuchet,sans-serif"/>
-        <Variable name="post.title.text.color" description="Text Color" type="color"
-        default="#ffffff"/>
-        </Group>
-        <Group description="Post Background" selector=".column-center-inner">
-        <Variable name="post.background.color" description="Background Color" type="color"
-        default="transparent"/>
-        <Variable name="post.background.url" description="Post Background URL" type="url" default="none"/>
-        </Group>
-        <Group description="Gadget Title Color" selector="h2">
-        <Variable name="widget.title.font" description="Font" type="font"
-        default="normal bold 14px 'Trebuchet MS',Trebuchet,sans-serif"/>
-        <Variable name="widget.title.text.color" description="Title Color" type="color" default="#ffffff"/>
-        </Group>
-        <Group description="Gadget Text" selector=".footer-inner .widget, .sidebar .widget">
-        <Variable name="widget.font" description="Font" type="font"
-        default="normal normal 13px 'Courier New', Courier, FreeMono, monospace"/>
-        <Variable name="widget.text.color" description="Text Color" type="color" default="#000000"/>
-        </Group>
-        <Group description="Gadget Links" selector=".sidebar .widget">
-        <Variable name="widget.link.color" description="Link Color" type="color" default="#000000"/>
-        <Variable name="widget.link.visited.color" description="Visited Color" type="color" default="#077193"/>
-        <Variable name="widget.alternate.text.color" description="Alternate Color" type="color" default="#ffffff"/>
-        </Group>
-        <Group description="Sidebar Background" selector=".column-left-inner .column-right-inner">
-        <Variable name="widget.outer.background.color" description="Background Color" type="color" default="transparent" />
-        <Variable name="widget.border.bevel.color" description="Bevel Color" type="color" default="transparent" />
-        </Group>
-        <Variable name="body.background" description="Body Background" type="background"
-        color="transparent" default="$(color) none repeat-x scroll top center"/>
-        <Variable name="content.background" description="Content Background" type="background"
-        color="transparent" default="$(color) none repeat scroll top center"/>
-        <Variable name="comments.background" description="Comments Background" type="background"
-        default="#cccccc none repeat scroll top center"/>
-        <Variable name="content.imageBorder.top.space" description="Content Image Border Top Space" type="length" default="0"/>
-        <Variable name="content.imageBorder.top" description="Content Image Border Top" type="url" default="none"/>
-        <Variable name="content.margin" description="Content Margin Top" type="length" default="20px"/>
-        <Variable name="content.padding" description="Content Padding" type="length" default="20px"/>
-        <Variable name="content.posts.padding" description="Posts Content Padding" type="length" default="10px"/>
-        <Variable name="tabs.background.gradient" description="Tabs Background Gradient" type="url"
-        default="url(//www.blogblog.com/1kt/travel/bg_black_50.png)"/>
-        <Variable name="tabs.selected.background.gradient" description="Tabs Selected Background Gradient" type="url"
-        default="url(//www.blogblog.com/1kt/travel/bg_black_50.png)"/>
-        <Variable name="widget.outer.background.gradient" description="Sidebar Gradient" type="url"
-        default="url(//www.blogblog.com/1kt/travel/bg_black_50.png)"/>
-        <Variable name="footer.background.gradient" description="Footer Background Gradient" type="url" default="none"/>
-        <Variable name="mobile.background.overlay" description="Mobile Background Overlay" type="string"
-        default="transparent none repeat scroll top left"/>
-        <Variable name="mobile.button.color" description="Mobile Button Color" type="color" default="#ffffff" />
-        <Variable name="startSide" description="Side where text starts in blog language" type="automatic" default="left"/>
-        <Variable name="endSide" description="Side where text ends in blog language" type="automatic" default="right"/>
-        */
+
         /* Content
         ----------------------------------------------- */
         body {
@@ -518,6 +417,15 @@
         }
         -->
     </style>
+
+    <style type="text/css">         
+        .brsmall {
+            display: block;
+            margin-bottom: -.1em;
+        }
+    </style>
+
+
     <link href='./images/elif_oral.ico' rel='shortcut icon'/>
     <link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=611894017183015835&amp;zx=45fc3de5-46ad-4311-a5f5-cf6d76d3784a' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/>
     <noscript>
@@ -693,23 +601,23 @@
 
 
 
-<IMG BORDER="0" ALIGN="Right" SRC="./images/fotom.jpeg" style="width:50%"> 
+<IMG BORDER="0" ALIGN="Right" SRC="./images/fotom.jpeg" style="width:50%; margin-top:50px;" > 
 
 
+<tr><td class="tr-caption" style="text-align: justify;"><span style="font-family: HelveticaNeue-Light, monospace; 
+font-size: large;"> Hello! <br></br> I am a scientist working at <a href ='https://www.caltech.edu' style="color: CadetBlue"> Caltech</a> as a postdoctoral researcher. <br></br>
 
-
-
-<tr><td class="tr-caption" style="text-align: center;"><span style="font-family: HelveticaNeue-Light, monospace; font-size: large;">Hello! <br></br> I am a scientist working on earthquakes, currently a postdoctoral researcher at <a href ='https://www.caltech.edu' style="color: CadetBlue"> Caltech</a> in CA, USA. My research targets to better understand how and why earthquakes happen, and predict their impact on the environment, as detailed below.
-<br></br>
-
-
-<b>Computational seismology</b>: Numerical modelling of rupture dynamics and kinematics, seismic cycles, seismic wave propagation, soil nonlinearity and site effects. <br></br>
-<b>Observational seismology</b>: Empirical Green's functions, moment tensor inversion, and source relocation.
-<br></br>
-
+    My research navigates us through geohazard problems to manage the associated risks and develop innovative solutions for a sustainable future in our "uncertain but predictable" world. I am particulary interested in combining computational mechanics, theoretical and observational seismology, and big data, cross-cutting the areas below: <br></br>
+ 
+    - Earthquake source physics <span class="brsmall"></span>
+    - Fault and fracture mechanics <span class="brsmall"></span>
+    - Wave propagation in complex media <span class="brsmall"></span>
+    - Fault damage zones and site effects <span class="brsmall"></span>
+    - Soil dynamics and liquefaction <span class="brsmall"></span>
+    - Ground motion prediction at local/urban scale <span class="brsmall"></span>
+    - Multi-physics and multi-scale modeling  <br></br>
 
 I created this website to easily share my work with you. It's dynamically updated. Thanks for looking, and stay tuned! 
-
 <br></br>
 
 Elif 

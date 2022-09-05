@@ -28,7 +28,7 @@
   
 <!-- ABOUT THE PROJECT -->
 ## About the website
-I am a scientist working on earthquakes. This website is to share my work with you.
+I am a scientist working on geohazards. This website is to share my work with you.
 <!-- **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
  -->
