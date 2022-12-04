@@ -23,7 +23,8 @@ Spectral element modelling of 2D wave propagation including site effects
 * Code [`SEM2DPACK`](https://github.com/jpampuero/sem2dpack/tree/iwan)
 * Examples: coming soon
 * References: 
-    * Oral, Gélis and Bonilla, 2019, 2-D P-SV and SH spectral element modelling of seismic wave propagation in non-linear media with pore-pressure effects, Geophysical Journal International, [PDF](https://eartharxiv.org/repository/view/1954/)
+    * Oral, Ayoubi, Ampuero, Asimaki, and Bonilla, Kathmandu Basin as a local modulator of seismic waves: 2-D modelling of non-linear site response under obliquely incident waves, [DOI](https://doi.org/10.1093/gji/ggac302) [PDF](https://eartharxiv.org/repository/view/2772/) 
+    * Oral, Gélis and Bonilla, 2019, 2-D P-SV and SH spectral element modelling of seismic wave propagation in non-linear media with pore-pressure effects, Geophysical Journal International, [PDF](https://eartharxiv.org/repository/view/1954/) [DOI](https://doi.org/10.1093/gji/ggz041)
     * Phd Dissertation: [Oral (2016)](https://tel.archives-ouvertes.fr/tel-01562279)
 
 <a name="1d3csem"></a>
